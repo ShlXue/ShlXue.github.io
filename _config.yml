@@ -9,6 +9,8 @@ kramdown:
   coderay:
     coderay_tab_width: 2
 
+lang: zh-CN
+
 # Setup
 title:               Lanyon
 tagline:             'A Jekyll theme'
