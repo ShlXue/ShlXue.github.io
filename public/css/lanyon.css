@@ -96,7 +96,7 @@ h1, h2, h3, h4, h5, h6 {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   border-bottom: 1px solid #eee;
 }
 .masthead-title {
@@ -309,7 +309,7 @@ a.sidebar-nav-item:focus {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 3em;
 }
 
 /* Blog post or page title */
@@ -333,8 +333,8 @@ a.sidebar-nav-item:focus {
 
 /* Related posts */
 .related {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: .5rem;
+  padding-bottom: 1rem;
   border-top: 1px solid #eee;
 }
 .related-posts {
@@ -390,7 +390,7 @@ a.pagination-item:hover {
 
 @media (min-width: 30em) {
   .pagination {
-    margin: 3rem 0;
+    margin: 2rem 0;
   }
   .pagination-item {
     float: left;
