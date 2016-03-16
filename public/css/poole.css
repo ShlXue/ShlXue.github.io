@@ -320,6 +320,21 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
 }
 
+/* Pages list */
+.list {
+  padding-left: 0;
+  list-style: none;
+}
+.list li {
+  display: block;
+  margin-bottom: .1rem;
+}
+
+.list span {
+  float: right;
+  color: #999;
+  padding-left: .5rem;
+}
 
 /*
  * Posts and pages
