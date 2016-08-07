@@ -1,4 +1,8 @@
-# 极速下载 linux DVD
+---
+layout: post
+title: 极速下载 linux DVD
+date: 2016-08-06 23:49:15
+---
 
 linux 发行的版本中 CentOS 与 Debian 是我个人比较的喜欢的两个版本, 其做为生成服务器或开发环境都是不错的选择.
 
